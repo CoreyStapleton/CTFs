@@ -8,7 +8,7 @@ Please follow the rules for this CTF!
 Connect here:
 <a href="https://ctf.nahamcon.com/rules">Read The Rules</a>
 
-## Solution
+## Solution:
 
 Navigate to the rules site and under flag formatat it says "If you look closely, you can even find a flag on this page!"
 
