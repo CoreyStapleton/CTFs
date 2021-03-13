@@ -1,6 +1,6 @@
 # NahamCon 2021 CTF
 
-## Friday, 12 March 12:00 PT - Sunda, 14 March 12:00 PT
+## Friday, 12 March 12:00 PT - Sunday, 14 March 12:00 PT
 48-hour competition
 
 <a href="https://ctf.nahamcon.com/">https://ctf.nahamcon.com/</a></br></br>
