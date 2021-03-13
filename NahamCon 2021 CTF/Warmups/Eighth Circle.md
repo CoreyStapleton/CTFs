@@ -17,7 +17,7 @@ Running file command on "eighth_circle" shows its an ASCII text, with very long 
 ![image](https://user-images.githubusercontent.com/36644707/111015099-216aed00-8375-11eb-87d2-c3323c767c8f.png)
 
 
-Renaming eighth_circle to eighth_circle.txt shows us the ASCII test.
+Renaming "eighth_circle" to "eighth_circle.txt" shows us the ASCII test.
 
 ![image](https://user-images.githubusercontent.com/36644707/111015246-def5e000-8375-11eb-8f04-27ff0681f4c5.png)
 
